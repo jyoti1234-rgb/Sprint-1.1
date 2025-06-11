@@ -1,0 +1,9 @@
+Ticket Receipt
+-------------------
+Movie: 3 Idiots
+Seat No: A5
+Booking ID: 123456
+Showtime: 7:00 PM, 12 June 2025
+Theater: Cinepolis, Pune
+-------------------
+Thank you for booking with us!
